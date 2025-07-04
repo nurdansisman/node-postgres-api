@@ -1,1 +1,1 @@
-require('./app');
+require('./config/routes/models/src/app');
